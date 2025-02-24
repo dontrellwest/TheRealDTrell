@@ -3,8 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machines in Azure](https://github.com/dontrellwest/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols Using Wireshark:ICMP, SSH, DHCP, DNS, and RDP](https://github.com/dontrellwest/azure-network-protocols)
+  - [Creating Windows and Linux Virtual Machines Using Microsoft Azure](https://github.com/dontrellwest/azure-virtual-machine-creation)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/dontrellwest/configure-ad)
 
 
