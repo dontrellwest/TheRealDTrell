@@ -4,13 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Creating Windows and Linux Virtual Machines Using Microsoft Azure](https://github.com/dontrellwest/azure-virtual-machine-creation)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/dontrellwest/configure-ad)
 
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/dontrellwest/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/dontrellwest/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/dontrellwest/ticket-lifecycle)
 
 
 
